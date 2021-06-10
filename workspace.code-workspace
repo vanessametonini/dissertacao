@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"james-yu.latex-workshop",
+			"torn4dom4n.latex-support"
+		]
+	}
+}
