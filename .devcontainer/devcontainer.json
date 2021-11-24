@@ -1,0 +1,14 @@
+{
+	"name": "Dissertação Mestrado",
+	"dockerComposeFile": [
+		"../docker-compose.yml",
+		"docker-compose.override.yml"
+	],
+	"service": "app",
+	"workspaceFolder": "/workspace",
+	"extensions": [
+		"james-yu.latex-workshop",
+		"streetsidesoftware.code-spell-checker",
+		"streetsidesoftware.code-spell-checker-portuguese-brazilian"
+	],
+}
